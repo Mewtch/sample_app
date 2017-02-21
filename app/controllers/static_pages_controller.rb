@@ -1,6 +1,5 @@
 class StaticPagesController < ApplicationController
-  def home
-  	#render html: 'cut a wicked fart'
+  def home  	
   end
 
   def help
@@ -11,6 +10,6 @@ class StaticPagesController < ApplicationController
 
   def contact
   end
-  
+
 
 end
